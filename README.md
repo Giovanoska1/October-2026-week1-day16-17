@@ -1,12 +1,12 @@
-#Kiri's Kitchen
-#About Kiri, restaurant owner
+# Kiri's Kitchen
+# About Kiri, restaurant owner
   
-    *Kiri's Kitchen is a cozy family-owned restaurant nestled in the heart of San Francisco. Established in 2015, it has been serving a fusion of traditional and modern American cuisines, providing a warm, welcoming ambiance that mirrors the comfort found in a family kitchen. 
+    * Kiri's Kitchen is a cozy family-owned restaurant nestled in the heart of San Francisco. Established in 2015, it has been serving a fusion of traditional and modern American cuisines, providing a warm, welcoming ambiance that mirrors the comfort found in a family kitchen. 
       
       The restaurant values fresh, locally sourced ingredients, community engagement, and providing a delightful dining experience that goes beyond just the meal. Kiri believes in creating a place where every diner feels at home while enjoying hearty, delicious meal.
     # Food and Beverage
    
-    #Appetizers
+    # Appetizers
 
          ![spring rolls](springrolls.jpg.)
      -Vegetable Spring Rolls
